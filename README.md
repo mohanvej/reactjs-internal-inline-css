@@ -1,2 +1,2 @@
-# reactjs-internal-inline-css
+# reactjs-css
 Created with CodeSandbox
